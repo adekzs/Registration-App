@@ -1,0 +1,14 @@
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/filters/AuthenticationFilter.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/servelets/FindServlet.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/repository/StudentService.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/servelets/DeleteServlet.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/servelets/UpdateServlet.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/model/Login.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/servelets/ImageServlet.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/servelets/LogoutServlet.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/servelets/SimpleServletNoDescriptor.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/repository/StudentRepo.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/servelets/RegistrationServlet.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/servelets/LoginServlet.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/service/StudentService.java
+/home/Adeks/eclipse-workspace/adeks-jakartaee8/src/main/java/com/adeks/registration/model/Student.java
